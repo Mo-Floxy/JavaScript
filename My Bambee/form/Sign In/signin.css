@@ -1,0 +1,80 @@
+body{
+    overflow-x: hidden;
+}
+#nav{
+    width: 1400px;
+    height: 80px;
+    box-shadow: 5px 5px 10px rgb(184, 184, 184);
+}
+#logo{
+    text-align: left;
+}
+#es{
+    margin-left: 800px;
+    background-color: rgb(116, 7, 138);
+    position: relative;
+    right: 100px;
+}
+#e{
+    position: relative;
+    right: 100px; 
+}
+button{
+    color: white;
+    background-color: rgb(16, 194, 134);
+    height: 40px;
+    width:180px ;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+}
+div{
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    border-radius: 7px;
+    /* border: 3px solid gray; */
+    box-shadow: 5px 10px 10px rgb(184, 184, 184);
+}
+h1{
+    color: white;
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+    font-family: Segoe UI;
+    font-size: 25px;
+   color: rgb(71, 69, 69);
+}
+h3{
+    font-family: Segoe UI;
+    font-size: 15px;
+    text-align: center;
+    color: rgb(179, 179, 179);
+}
+label{
+    font-family: Segoe UI;
+    font-size: 14px;
+    color: rgb(71, 69, 69);
+}
+input{
+    border-radius: 5px;
+    width: 370px;
+    height: 40px;
+    margin-bottom: 10px;
+    border: 3px solid rgb(201, 201, 201);
+}
+form{
+    padding: 10px;
+}
+#login{
+    width: 377px;
+    height: 40px;
+    font-size: 14px;
+    color: white;
+    background-color: rgb(10, 177, 168);
+    border: none;
+    border-radius: 5px;
+}
